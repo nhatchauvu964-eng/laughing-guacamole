@@ -1,0 +1,7 @@
+# Core notebook dependencies; ranges are not a tested compatibility matrix.
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.4,<2
+# Notebook interface and kernel
+jupyterlab>=4,<5
+ipykernel>=6,<8
